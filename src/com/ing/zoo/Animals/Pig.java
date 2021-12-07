@@ -1,9 +1,9 @@
 package com.ing.zoo.Animals;
 
 import com.ing.zoo.Classes.Animal;
-import com.ing.zoo.interfaces.Carnivores;
-import com.ing.zoo.interfaces.Omnivores;
-import com.ing.zoo.interfaces.TrickAnimal;
+import com.ing.zoo.Interfaces.Carnivores;
+import com.ing.zoo.Interfaces.Omnivores;
+import com.ing.zoo.Interfaces.TrickAnimal;
 
 import java.util.Random;
 

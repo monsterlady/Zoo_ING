@@ -1,7 +1,7 @@
 package com.ing.zoo.Animals;
 
 import com.ing.zoo.Classes.Animal;
-import com.ing.zoo.interfaces.Omnivores;
+import com.ing.zoo.Interfaces.Omnivores;
 
 public class Hippo extends Animal implements Omnivores {
     public Hippo() {
